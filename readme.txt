@@ -1,0 +1,1 @@
+A connect 4 game for Atmel Microcontroller ATTiny with a 8x8 bicolor Led Matrix
